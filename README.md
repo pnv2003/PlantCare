@@ -113,7 +113,7 @@ python main.py test --model mobilenet_v2 --freeze
 - [Transfer Learning with PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is currently not licensed. In the meantime, feel free to explore, modify, and use the code for educational purposes.
 
 ## Acknowledgments
 - The creators of the PlantVillage dataset for their valuable contributions to plant disease research.
